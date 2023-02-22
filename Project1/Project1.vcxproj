@@ -128,12 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="OCursor.cpp" />
-    <ClCompile Include="OStage.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="OCursor.h" />
-    <ClInclude Include="OStage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
